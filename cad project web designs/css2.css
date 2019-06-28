@@ -1,0 +1,17 @@
+body {
+    text-align: left;
+    background-color: white;
+    padding: 100px;
+    padding-top: 10px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:white);
+    color: black;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:white;
+    background-color: gray;
+}
